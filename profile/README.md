@@ -4,4 +4,4 @@ Dandelion Labs is a blockchain product and research agency creating meaningful e
 
 ### Looking for a job?
 
-Our team is always looking for new contributors, contact us as hello@dandelionlabs.io
+Our team is always looking for new contributors, contact us as careers@dandelionlabs.io
